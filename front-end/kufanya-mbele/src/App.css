@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -26,6 +28,34 @@
 
 .App-link {
   color: #61dafb;
+}
+
+/*custom css*/
+.chata {
+  color: white;
+  font-size: 24px;
+}
+
+.chata1 {
+  color: red;
+}
+
+.menu {
+  font-weight:400;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  background-color: #fff;
+  color: #000000;
+  border-radius: 3px;
+}
+
+.pambo1 {
+  color: red;
 }
 
 @keyframes App-logo-spin {

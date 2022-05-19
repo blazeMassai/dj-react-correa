@@ -3,7 +3,7 @@ import React from 'react';
 function AddTodo() {
     return (
         <div className="App">
-            <h1>Add Todo</h1>
+            <h1>Add To-do Item</h1>
         </div>
     );
 }
